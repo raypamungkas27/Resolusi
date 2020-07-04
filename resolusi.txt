@@ -1,5 +1,5 @@
 Resolusi
 - react native
 - flutter
-- vue js
+- vue js Selesai
 - vue js - laravel
