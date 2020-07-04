@@ -1,0 +1,4 @@
+Resolusi
+- react native
+- flutter
+- vue js
